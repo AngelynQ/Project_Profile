@@ -215,6 +215,7 @@ img.mySlides {
 
 		.row > .col-12 {
 			width: 100%;
+			width: 100%;
 		}
 
 		.row > .off-12 {
@@ -1314,7 +1315,7 @@ img.mySlides {
 	}
 
 	body {
-		background-image: url("images/overlay.png"), url("images/bg.jpg");
+		background-image: url("images/overlay.png"), url("images/bg1.jpg");
 		background-repeat: repeat, no-repeat;
 		background-size: auto, 100% 100%;
 		background-attachment: fixed;
@@ -2240,6 +2241,13 @@ img.mySlides {
 }
 div.btn{
 	margin-top: 10%;
+	
+}
+img.img2 {
+	border-radius: 8px;
+	margin: 25px 15px 75px 15px;
+	width: 650px;
+	height: 330px;
 	
 }
 		
