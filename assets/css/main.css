@@ -2250,4 +2250,90 @@ img.img2 {
 	height: 330px;
 	
 }
-		
+h2.profile{
+	text-align: center;
+	font-weight: bold;
+	
+}
+p,h4,ul.interest{
+	margin-left:15px;
+	margin-bottom:18px;
+	font-size: 15px;
+	color:gray;
+	font-weight: normal;
+	
+}
+ul,ol.lst{
+	margin-left:50px;
+	font-weight: normal;
+	color:gray;
+	font-size: 15px;
+}
+h3.itl {
+	font-style: italic;
+	margin-top:5px;
+	
+}
+p.pho {
+	font-style: italic;
+	margin-left:20px;
+	font-size: 10px;
+}
+p.pho1 {
+	font-style: italic;
+	margin-left:84px;
+	font-size: 10px;
+	color:gray;
+	
+}
+img.img3 {
+	position:relative; 
+	right:130px;
+	margin-top:50px;
+	width: 250px;
+	height: 150px;
+	
+}
+img.img4 {
+	position:relative; 
+	right:110px;
+	margin-top:50px;
+	width: 250px;
+	height: 150px;
+	
+}
+img.img5 {
+	width: 550px;
+	height: 400px;
+	margin-left:100px;
+	border: 1px solid black;
+}
+fieldset.lgn {
+	font-size: 30px;
+	font-weight: bold;
+	color:lightblue;
+}
+h3.proj {
+	font-style: italic;
+	margin-top:5px;
+	text-align:center;
+}
+img.img6 {
+	width: 450px;
+	height: 300px;
+	margin-left:120px;
+	border: 1px solid black;
+}
+h3.ref {
+	margin-left:15px;
+	margin-bottom:18px;
+	font-size: 20px;
+	color:gray;
+	font-weight: normal;
+	font-style: italic;
+}
+p.ref1 {
+	font-style: italic;
+	margin-left:20px;
+	font-size: 15px;
+}
