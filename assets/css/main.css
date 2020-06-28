@@ -2337,3 +2337,11 @@ p.ref1 {
 	margin-left:20px;
 	font-size: 15px;
 }
+p.info {
+	font-family:Courier, monospace;
+	font-weight: 500;
+	font-size: 16px;
+	border: 1px solid black;
+	margin: 20px;
+	padding: 20px;
+}
